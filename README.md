@@ -1,6 +1,15 @@
 # IDE Like
 This neovim distros include most plugins you will ever need.
 
+## NormalNvim
+Similar to visual studio IDE.
+
+| Parameter | Value |
+|--|--|
+| `Stability` | Very stable. |
+| `Updates policy` | Only bug fixes. |
+| `Strong points` | Feature rich. Ships with a compiler. Great directory structure. Easier to master than other distros. |
+
 ## AstroNvim
 Similar to vscode.
 
@@ -9,15 +18,6 @@ Similar to vscode.
 | `Stability` | Bleeding edge. |
 | `Updates frecuency` | Very often. |
 | `Strong points` | Defaults appeal to most people. Non opinionated.  |
-
-## NormalNvim
-Similar to visual studio IDE.
-
-| Parameter | Value |
-|--|--|
-| `Stability` | Very stable. |
-| `Updates policy` | Only bug fixes. |
-| `Strong points` | Feature rich. Ships with a compiler. |
 
 ## LunarVim
 A middle term between AstroNvim and NormalNvim.
@@ -43,10 +43,16 @@ This distros included the bare minimum. You are responsable for installing the p
 |--|--|
 | `Stability` | Very stable |
 | `Amount of plugins`| Minimalistic |
-| `Strong points` | My favorite defaults in the minimalistic distro category. |
+| `Strong points` | Very simple yet powerful defaults. |
 
 
 # Final notes
 Please consider that often the main difference between neovim distros is their inner directory structure. This can make a big difference in maintaining your vim distro. So take a look on how complex and well organized a distro is before cloning it.
+
+Other things things to consider are:
+
+* Philosophy behind the distro.
+* How friendly the community is.
+* How often is the issue tracker revised.
 
 All distros listed here use the Lazy package manager.
