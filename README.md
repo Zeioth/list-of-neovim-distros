@@ -1,5 +1,5 @@
 # IDE Like
-This neovim distros include most plugins you will ever need.
+These neovim distros include most plugins you will ever need.
 
 ## [NormalNvim](https://github.com/NormalNvim/NormalNvim)
 Similar to visual studio IDE.
