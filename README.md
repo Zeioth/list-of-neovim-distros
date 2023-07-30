@@ -6,9 +6,8 @@ Similar to vscode.
 
 | Parameter | Value |
 |--|--|
-| `Stability` | Bleeding edge |
-| `Amount of plugins`| Well balanced |
-| `Updates frecuency` | Very often |
+| `Stability` | Bleeding edge. |
+| `Updates frecuency` | Very often. |
 | `Strong points` | Defaults appeal to most people. Non opinionated.  |
 
 ## NormalNvim
@@ -16,19 +15,18 @@ Similar to visual studio IDE.
 
 | Parameter | Value |
 |--|--|
-| `Stability` | Very stable |
-| `Amount of plugins` | Maximalist |
-| `Updates policy` | Only bug fixes |
-| `Strong points` | All you expect from an IDE is included and debugged. Plugins are self-contained and easy to delete. |
+| `Stability` | Very stable. |
+| `Updates policy` | Only bug fixes. |
+| `Strong points` | Extra aditions over AstroNvim. Includes a compiler. |
 
 ## LunarVim
 A middle term between AstroNvim and NormalNvim.
 
 | Parameter | Value |
 |--|--|
-| `Stability` | Very stable |
-| `Amount of plugins`| Maximalist |
-| `Updates policy` | Only bug fixes |
+| `Stability` | Very stable. |
+| `Updates policy` | Only bug fixes. |
+| `Strong points` | Sane defaults. |
 
 # Minimalistic distros
 This distros included the bare minimum. You are responsable for installing the plugins you want.
