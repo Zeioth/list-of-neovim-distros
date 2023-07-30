@@ -1,7 +1,7 @@
 # IDE Like
 This neovim distros include most plugins you will ever need.
 
-## NormalNvim
+## [NormalNvim](https://github.com/NormalNvim/NormalNvim)
 Similar to visual studio IDE.
 
 | Parameter | Value |
