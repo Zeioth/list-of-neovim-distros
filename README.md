@@ -47,7 +47,7 @@ This distros include the bare minimum. You are responsable for installing the pl
 
 
 # Final notes
-Please consider that often the main difference between neovim distros is their inner directory structure. This can make a big difference in maintaining your vim distro. So take a look on how complex and well organized a distro is before cloning it.
+Please consider that often the main difference between neovim distros is their inner directory structure. This can make a big difference in maintaining your neovim distro. So take a look on how complex and well organized a distro is before cloning it.
 
 Other things things to consider are:
 
