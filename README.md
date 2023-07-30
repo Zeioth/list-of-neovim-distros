@@ -42,7 +42,7 @@ This distros include the bare minimum. You are responsable for installing the pl
 | Parameter | Value |
 |--|--|
 | `Stability` | Very stable |
-| `Amount of plugins`| Minimalistic |
+| `Updates policy` | Only bug fixes |
 | `Strong points` | Very simple yet powerful defaults. |
 
 
