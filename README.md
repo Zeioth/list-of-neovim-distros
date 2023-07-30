@@ -1,5 +1,5 @@
 # IDE Like
-This distros include most plugins you will ever need.
+This neovim distros include most plugins you will ever need.
 
 ## AstroNvim
 Similar to vscode.
