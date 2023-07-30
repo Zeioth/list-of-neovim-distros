@@ -29,7 +29,7 @@ A middle term between AstroNvim and NormalNvim.
 | `Strong points` | Sane defaults. |
 
 # Minimalistic distros
-This distros included the bare minimum. You are responsable for installing the plugins you want.
+This distros include the bare minimum. You are responsable for installing the plugins you need.
 
 ## Lazy.Nvim
 | Parameter | Value |
