@@ -17,7 +17,7 @@ Similar to visual studio IDE.
 |--|--|
 | `Stability` | Very stable. |
 | `Updates policy` | Only bug fixes. |
-| `Strong points` | Extra aditions over AstroNvim. Includes a compiler. |
+| `Strong points` | Extra aditions over AstroNvim. Ships with a compiler. |
 
 ## LunarVim
 A middle term between AstroNvim and NormalNvim.
