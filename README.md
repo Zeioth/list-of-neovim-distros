@@ -35,7 +35,6 @@ This distros included the bare minimum. You are responsable for installing the p
 | Parameter | Value |
 |--|--|
 | `Stability` | Very stable |
-| `Amount of plugins`| Minimalistic |
 | `Updates policy` | Only bug fixes |
 | `Strong points` | Folke is the maintainer of the project. Everyone loves Folke. |
 
