@@ -17,7 +17,7 @@ Similar to visual studio IDE.
 | Parameter | Value |
 |--|--|
 | `Stability` | Very stable |
-| `Amount of plugins`| Maximalist |
+| `Amount of plugins` | Maximalist |
 | `Updates policy` | Only bug fixes |
 | `Strong points` | All you expect from an IDE is included and debugged. Plugins are self-contained and easy to delete. |
 
